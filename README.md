@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fotsoeddy
 - 🔭 I’m currently working on fullstack developement with MERN 
-- 🌱 I’m currently learning front-end development using react
+- 🌱 Exploring fullstack developement with MERN and MEAN stacks.
 - 💞️ I’m looking to collaborate on software development 
 - 📫 How to reach me fotsotachulaeddysteve@gmail.com
 
