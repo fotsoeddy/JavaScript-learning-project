@@ -39,3 +39,9 @@ h2{
     background: linear-gradient( 168deg, #ff9a9e, #fad0c4);
     border-radius: 5px;
 }
+.button-containe{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+}
