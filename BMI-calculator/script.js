@@ -32,8 +32,8 @@ document.getElementById('form').addEventListener('submit',function(e){
         let resultMessage = 'Your BMI:' + bmi.toFixed(2) + '<br>';
         resultMessage += 'category' + category;
 
-        resultElement.innerHTML = resultElement;
-
+        resultElement.innerHTML = resultMessage;
+``
     }
 
 
